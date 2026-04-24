@@ -90,12 +90,7 @@ The macro returns one row per image with columns:
 
 ---
 
-## Validation and known limitations
-
-The macro was validated against manually traced measurements on
-[N] randomly selected images spanning both soil-type classifications and all
-populations. Measurements agreed to within [X] mm on average
-(root-mean-square error; see `validation/validation_report.md`).
+## Known Limitations
 
 Known failure modes:
 
@@ -106,7 +101,7 @@ Known failure modes:
 - **Blurred or out-of-focus margins** can cause edge detection to fail or
   return implausible values. Remeasure affected positions manually with the
   straight-line tool.
-- Approximately [X]% of measurements in the associated study were remade
+- Approximately 0.625% of measurements in the associated study were remade
   manually for these reasons.
 
 ---
@@ -130,5 +125,5 @@ Released under the MIT License. See [`LICENSE`](LICENSE) for the full text.
 ## Contact
 
 Dominic D'Ascenzo — dascenzod03@gmail.com
-[Institution / department]
+[Grinnell College]
 [ORCID iD: https://orcid.org/0000-0000-0000-0000]
