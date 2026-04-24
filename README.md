@@ -6,7 +6,7 @@
 A Fiji/ImageJ macro that automatically measures radicle diameters at eight fixed
 distances from the root tip (0.25, 0.50, 0.75, 1.00, 1.25, 1.50, 1.75, and
 2.00 mm) in calibrated grayscale images of Toluidine-Blue-stained *Clarkia
-xantiana* subsp. *xantiana* seedlings. The macro draws perpendicular transects
+xantiana* *ssp.* *xantiana* seedlings. The macro draws perpendicular transects
 from a user-traced centerline and detects the intensity transition between
 stained tissue and background at each transect.
 
