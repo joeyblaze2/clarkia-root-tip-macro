@@ -1,6 +1,6 @@
 # Fiji macro for automated root-tip diameter measurement in *Clarkia xantiana*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19742959.svg)](https://doi.org/10.5281/zenodo.19742959)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Fiji/ImageJ macro that automatically measures radicle diameters at eight fixed
@@ -21,7 +21,7 @@ If you use this macro, please cite the archived release (preferred):
 
 > D'Ascenzo, D. (2026). *Fiji macro for automated root-tip diameter measurement
 > in Clarkia xantiana* (Version 1.0.0) [Computer software]. Zenodo.
-> https://doi.org/10.5281/zenodo.XXXXXXX
+> https://doi.org/10.5281/zenodo.19742959
 
 And please also cite Fiji:
 
