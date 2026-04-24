@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Fiji macro for automated root-tip diameter measurement in Clarkia xantiana"
+version: 1.0.0
+date-released: "2026-04-24"
+authors:
+  - family-names: "D'Ascenzo"
+    given-names: "Dominic"
+    email: "dascenzod03@gmail.com"
+    # Uncomment and fill in once you have an ORCID iD:
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # affiliation: "Your Institution / Department"
+repository-code: "https://github.com/USERNAME/clarkia-root-tip-macro"
+license: MIT
+keywords:
+  - Fiji
+  - ImageJ
+  - macro
+  - root morphology
+  - root tip
+  - Clarkia xantiana
+  - image analysis
+  - plant ecology
+  - local adaptation
+abstract: >-
+  A Fiji/ImageJ macro that automatically measures radicle diameters at eight
+  fixed distances from the root tip (0.25, 0.50, 0.75, 1.00, 1.25, 1.50, 1.75,
+  and 2.00 mm) in calibrated grayscale images of Toluidine-Blue-stained
+  Clarkia xantiana subsp. xantiana seedlings. Designed to support a study of
+  geographic variation in root morphology across populations native to
+  different soil types.
+# Once the paper is published, add the preferred-citation block below so
+# GitHub's "Cite this repository" button points to the paper, not the software.
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: "D'Ascenzo"
+#       given-names: "Dominic"
+#   title: "Your paper title here"
+#   journal: "Journal name"
+#   year: 2026
+#   doi: "10.XXXX/XXXXX"
