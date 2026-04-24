@@ -126,4 +126,3 @@ Released under the MIT License. See [`LICENSE`](LICENSE) for the full text.
 
 Dominic D'Ascenzo — dascenzod03@gmail.com
 [Grinnell College]
-[ORCID iD: https://orcid.org/0000-0000-0000-0000]
